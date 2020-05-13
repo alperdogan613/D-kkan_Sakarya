@@ -1,0 +1,3 @@
+﻿1>------ Derleme başladı: Proje: Ndp proje, Yapılandırma: Debug Any CPU ------
+1>  Ndp proje -> C:\Users\Acer\source\repos\Ndp proje\bin\Debug\Ndp proje.exe
+========== Oluşturma: 1 başarılı, 0 başarısız, 0 güncel, 0 atlandı ==========
